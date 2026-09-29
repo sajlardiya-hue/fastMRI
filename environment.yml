@@ -1,0 +1,6 @@
+name: pinn-mri
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+prefix: C:\Users\Diya Sajlar\anaconda3\envs\pinn-mri
